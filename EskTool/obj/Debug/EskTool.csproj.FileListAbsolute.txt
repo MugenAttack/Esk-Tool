@@ -1,0 +1,12 @@
+c:\users\gaming-pc\documents\visual studio 2015\Projects\EskTool\EskTool\bin\Debug\EskTool.exe.config
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\EskTool\EskTool\bin\Debug\EskTool.exe
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\EskTool\EskTool\bin\Debug\EskTool.pdb
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\EskTool\EskTool\obj\Debug\EskTool.csprojResolveAssemblyReference.cache
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\EskTool\EskTool\obj\Debug\EskTool.eskBoneEditor.resources
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\EskTool\EskTool\obj\Debug\EskTool.Properties.Resources.resources
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\EskTool\EskTool\obj\Debug\EskTool.csproj.GenerateResource.Cache
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\EskTool\EskTool\obj\Debug\EskTool.exe
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\EskTool\EskTool\obj\Debug\EskTool.pdb
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\Esk-Tool\EskTool\bin\Debug\EskTool.exe.config
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\Esk-Tool\EskTool\obj\Debug\EskTool.exe
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\Esk-Tool\EskTool\obj\Debug\EskTool.pdb
